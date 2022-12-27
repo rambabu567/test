@@ -1,2 +1,1 @@
-test file
-12345
+this is a test file
